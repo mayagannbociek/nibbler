@@ -35,6 +35,8 @@ themepark <- function(){
 
 planet <- function(){
   print("I don't want to live on this planet anymore")
+}
 
-
+iloveyou <- function(){
+  print("Shut up baby, I know it!")
 }
