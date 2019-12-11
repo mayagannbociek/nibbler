@@ -18,12 +18,12 @@ hello <- function() {
 }
 
 
-#' medschool
-#'
-#' @return
+# medschool
+#
+#
+#
+#
 #' @export
-#'
-#' @examples
 medschool <- function (){
   print("Fry, it's been years since medical school, so remind me. Disembowling in your species, fatal or non-fatal?")
 }
