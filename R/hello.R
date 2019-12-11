@@ -1,17 +1,13 @@
-#' Hello, world!
-#
-# This is an example function named 'hello'
-# which prints 'Welcome to the world of tomorrow!'.
-#
-# You can learn more about package authoring with RStudio at:
-#
-#   http://r-pkgs.had.co.nz/
-#
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Cmd + Shift + B'
-#   Check Package:             'Cmd + Shift + E'
-#   Test Package:              'Cmd + Shift + T'
+#' hello
+#'
+#' @description
+#' hello returns the famous catchfrase of Terry at Applied Cryogenics,
+#' which he uses to greet the newly defrosted after they are reanimated.
+#'
+#' @section Warning:
+#' If you meet a newly reaminated  cryogenics user, do not be Terry.
+#' He's a professional.
+#'
 #' @export
 hello <- function() {
   print("Welcome to the world of tomorrow!")
@@ -22,13 +18,10 @@ hello <- function() {
 #' medschool
 #'
 #' @description
-#' medschool returns a family friendly Zoidberg quote.
+#' medschool returns a family-friendly Zoidberg quote.
 #'
 #' @section Warning:
 #' Do not operate heavy machinery within 8 hours of using this function.
-#'
-#' @examples
-#' medschool()
 #'
 #' @export
 medschool <- function (){
@@ -38,11 +31,14 @@ medschool <- function (){
 
 #' nixon
 #'
-#' @return
-#' @export
+#' @description
+#' nixon returns a quote from the head of ex-president Richard Nixon.
 #'
-#' @examples
-#' nixon()
+#' @section Warning:
+#' The head-in-a-jar idea, at least in 2019, is only a philosophical thought
+#' experiment. Please do not attempt.
+#'
+#' @export
 nixon <- function (){
   print("AROOOO")
 }
@@ -50,11 +46,13 @@ nixon <- function (){
 
 #' squirrel
 #'
+#' @description
+#' squirrel returs a quote from the head of ex-president Richard Nixon.
 #'
-#'
-#'
-#' @examples
-#' squirrel()
+#' @section Note:
+#' No animals were harmed in the making of this quote.
+#' Literally.
+#' The squirrel did not fall, dispite Nixon's best efforts.
 #'
 #' @export
 squirrel <- function(){
@@ -62,13 +60,21 @@ squirrel <- function(){
 }
 
 
-#' Title
+#' planet
 #'
-#' @return
+#' @description
+#' planet returns a highly-memed quote from Dr. Farnsworth.
+#'
+#' @section Other Uses:
+#' Helpful to use when you recieve a comment from a reviewer 2 that suggests
+#' that one of your validated, highly supported measure choices was "hardly a
+#' good choice, what were you thinking?" and instead recommends another measure
+#' that would be better (self-cited) and insists that you sample your thousands
+#' of participants again.
+#'
+#' I'm not bitter, you are.
+#'
 #' @export
-#'
-#' @examples
-#' planet()
 planet <- function(){
   print("I don't want to live on this planet anymore")
 }

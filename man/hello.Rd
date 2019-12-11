@@ -2,10 +2,17 @@
 % Please edit documentation in R/hello.R
 \name{hello}
 \alias{hello}
-\title{Hello, world!}
+\title{hello}
 \usage{
 hello()
 }
 \description{
-Hello, world!
+hello returns the famous catchfrase of Terry at Applied Cryogenics,
+which he uses to greet the newly defrosted after they are reanimated.
 }
+\section{Warning}{
+
+If you meet a newly reaminated  cryogenics user, do not be Terry.
+He's a professional.
+}
+

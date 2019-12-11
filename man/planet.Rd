@@ -2,16 +2,21 @@
 % Please edit documentation in R/hello.R
 \name{planet}
 \alias{planet}
-\title{Title}
+\title{planet}
 \usage{
 planet()
 }
-\value{
-
-}
 \description{
-Title
+planet returns a highly-memed quote from Dr. Farnsworth.
 }
-\examples{
-planet()
+\section{Other Uses}{
+
+Helpful to use when you recieve a comment from a reviewer 2 that suggests
+that one of your validated, highly supported measure choices was "hardly a
+good choice, what were you thinking?" and instead recommends another measure
+that would be better (self-cited) and insists that you sample your thousands
+of participants again.
+
+I'm not bitter, you are.
 }
+

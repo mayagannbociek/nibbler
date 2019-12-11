@@ -6,12 +6,12 @@
 \usage{
 nixon()
 }
-\value{
-
-}
 \description{
-nixon
+nixon returns a quote from the head of ex-president Richard Nixon.
 }
-\examples{
-nixon()
+\section{Warning}{
+
+The head-in-a-jar idea, at least in 2019, is only a philosophical thought
+experiment. Please do not attempt.
 }
+

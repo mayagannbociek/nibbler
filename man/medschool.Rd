@@ -7,14 +7,10 @@
 medschool()
 }
 \description{
-medschool returns a family friendly Zoidberg quote.
+medschool returns a family-friendly Zoidberg quote.
 }
 \section{Warning}{
 
 Do not operate heavy machinery within 8 hours of using this function.
 }
 
-\examples{
-medschool()
-
-}

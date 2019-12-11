@@ -7,9 +7,12 @@
 squirrel()
 }
 \description{
-squirrel
+squirrel returs a quote from the head of ex-president Richard Nixon.
 }
-\examples{
-squirrel()
+\section{Note}{
 
+No animals were harmed in the making of this quote.
+Literally.
+The squirrel did not fall, dispite Nixon's best efforts.
 }
+
