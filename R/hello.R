@@ -13,6 +13,6 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 #' @export
-hello <- function(a) {
+hello <- function() {
   print("Hello, world!")
 }
