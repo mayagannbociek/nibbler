@@ -14,5 +14,27 @@
 #   Test Package:              'Cmd + Shift + T'
 #' @export
 hello <- function() {
-  print("Hello, world!")
+  print("Welcome to the world of tomorrow!")
+}
+
+medschool <- function (){
+  print("Fry, it's been years since medical school, so remind me. Disembowling in your species, fatal or non-fatal?")
+}
+
+nixon <- function (){
+  print("AROOO")
+}
+
+squirrel <- function(){
+  print("fall, dammit!")
+}
+
+themepark <- function(){
+  print("I am going to make my own themepark with blackjack and hookers!")
+}
+
+planet <- function(){
+  print("I don't want to live on this planet anymore")
+
+
 }
