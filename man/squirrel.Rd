@@ -6,9 +6,10 @@
 \usage{
 squirrel()
 }
-\value{
-
-}
 \description{
 squirrel
+}
+\examples{
+squirrel()
+
 }

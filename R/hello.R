@@ -18,11 +18,18 @@ hello <- function() {
 }
 
 
-# medschool
-#
-#
-#
-#
+
+#' medschool
+#'
+#' @description
+#' medschool returns a family friendly Zoidberg quote.
+#'
+#' @section Warning:
+#' Do not operate heavy machinery within 8 hours of using this function.
+#'
+#' @examples
+#' medschool()
+#'
 #' @export
 medschool <- function (){
   print("Fry, it's been years since medical school, so remind me. Disembowling in your species, fatal or non-fatal?")
@@ -35,31 +42,25 @@ medschool <- function (){
 #' @export
 #'
 #' @examples
+#' nixon()
 nixon <- function (){
-  print("AROOO")
+  print("AROOOO")
 }
 
 
 #' squirrel
 #'
-#' @return
-#' @export
+#'
+#'
 #'
 #' @examples
+#' squirrel()
+#'
+#' @export
 squirrel <- function(){
   print("fall, dammit!")
 }
 
-#' Title
-#'
-#' @return
-#' @export
-#'
-#' @examples
-themepark <- function(){
-  print("I am going to make my own themepark with blackjack and hookers!")
-}
-
 
 #' Title
 #'
@@ -67,16 +68,8 @@ themepark <- function(){
 #' @export
 #'
 #' @examples
+#' planet()
 planet <- function(){
   print("I don't want to live on this planet anymore")
 }
 
-#' Title
-#'
-#' @return
-#' @export
-#'
-#' @examples
-iloveyou <- function(){
-  print("Shut up baby, I know it!")
-}

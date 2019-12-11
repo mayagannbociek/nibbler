@@ -12,3 +12,6 @@ planet()
 \description{
 Title
 }
+\examples{
+planet()
+}

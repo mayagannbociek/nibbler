@@ -12,3 +12,6 @@ nixon()
 \description{
 nixon
 }
+\examples{
+nixon()
+}
