@@ -26,3 +26,17 @@ tempc2f <- function(temp_c) {
   temp_f <- temp_c * (9 / 5) + 32
   return(temp_f)
 }
+
+#' Title
+#'
+#' @param miles
+#'
+#' @description
+#' Converts any mile length metric to the
+#' kilometer equivalent.
+#'
+#' @export
+mi2km <- function(miles) {
+  kilom <- miles * 1.609
+  return(kilom)
+}

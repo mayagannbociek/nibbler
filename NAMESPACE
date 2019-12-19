@@ -2,6 +2,7 @@
 
 export(hello)
 export(medschool)
+export(mi2km)
 export(nixon)
 export(planet)
 export(squirrel)
