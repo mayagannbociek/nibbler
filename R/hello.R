@@ -14,7 +14,6 @@ hello <- function() {
 }
 
 
-
 #' medschool
 #'
 #' @description
@@ -78,4 +77,3 @@ squirrel <- function(){
 planet <- function(){
   print("I don't want to live on this planet anymore")
 }
-
