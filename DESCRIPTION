@@ -7,7 +7,7 @@ Maintainer: Maya Gann-Bociek <maya.gannbociek@slu.edu>
 Description: The nibbler package is a first attempt at package building.
     The hopes for this package is to eventually hold anything an I/O psychologist
     might want to use in day-to-day data manipulation, analysis, and reporting.
-License: Still Deciding
+License: Still Deciding 
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
