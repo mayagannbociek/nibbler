@@ -12,7 +12,6 @@ tempf2c <- function(temp_F) {
   return(temp_C)
 }
 
-
 #' Celsius to Fahrenheit
 #'
 #' @param temp_c
@@ -40,3 +39,4 @@ mi2km <- function(miles) {
   kilom <- miles * 1.609
   return(kilom)
 }
+
