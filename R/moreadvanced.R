@@ -23,6 +23,6 @@ tempf2c <- function(temp_F) {
 #'
 #' @export
 tempc2f <- function(temp_c) {
-  temp_f <- temp_c * (5 / 9) + 32
+  temp_f <- temp_c * (9 / 5) + 32
   return(temp_f)
 }
